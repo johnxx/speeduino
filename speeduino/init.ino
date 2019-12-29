@@ -1017,7 +1017,7 @@ void setPinMapping(byte boardID)
       pinTrigger = 19; //The CAS pin
       pinTrigger2 = 18; //The Cam Sensor pin
       pinTPS = A2;//TPS input pin
-      pinMAP = A3; //MAP sensor pin
+      pinMAP = A9; //MAP sensor pin (originally pin A3)
       pinIAT = A0; //IAT sensor pin
       pinCLT = A1; //CLS sensor pin
       pinO2 = A8; //O2 Sensor pin
